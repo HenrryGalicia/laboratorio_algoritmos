@@ -1,0 +1,15 @@
+ES-EN=Dog
+EN-ES=Perro
+
+Dog=Perro
+
+ES-EN=House
+EN-ES=Casa
+
+House=Casa
+EN-ES dog=perro
+EN-ES cat=gato
+EN-ES table=mesa
+ES-EN perro=dog
+ES-EN gato=cat
+ES-EN mesa=table
